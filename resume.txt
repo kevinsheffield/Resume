@@ -61,11 +61,15 @@ what
 
 #### Logistics Modeler - May 2002 to August 2002
 
-what
+* Made database and spreadsheet applications modeling plant behavior for accounting and 	management purposes in Visual Basic and some C++.
+* Helped make changes to the plant control programs in Fortran.
+
 
 ### Westpointe Retirement Community, Pensacola, Florida
 
 #### Waitstaff - June 1999 to August 2001
 
-what
+* Maintained kitchen’s inventory, maintenance, and cleaning.
+* Trained new wait staff.
+
 
