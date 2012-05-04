@@ -18,13 +18,29 @@ University of Florida
 
 **Programming Languages**
 
- > Proficient in:  C#, Java, C, C++, Ruby, HTML, CSS, JavaScript, T-SQL (MSSQL, MySQL, Oracle)
+ > Proficient in:  C#, Java, C, C++, Ruby, PHP, HTML, CSS, JavaScript, T-SQL (MSSQL, MySQL, Oracle)
 
  > Experience with: Obj-C, Perl, Visual Basic, Fortran
 
+**Environments/Frameworks**
+
+ > Proficient in: .Net web (MVC and Webform) development, iOS (Obj-C and C#) development, Rails
+
+**Tools**
+
+ > I am experienced using tools such as Visual Studio, Eclipse, IntelliJ, Talend, and Xcode as development tools. 
+
+**Source Control**
+
+ > Proficient with Git, Subversion and VSS
+
+**Servers**
+
+ > I have experience with administration of both Linux and Windows web servers.
+
 **Software**
 
- > Sentence
+ > I have experience building sites powered by Sitecore CMS and Drupal
 
 ## Experience
 
