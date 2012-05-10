@@ -14,13 +14,13 @@ University of Florida
 
 **Programming Languages**
 
- > Proficient in:  C#, Java, C, C++, Ruby, PHP, HTML, CSS, JavaScript, T-SQL (MSSQL, MySQL, Oracle)
+ > Proficient in:  C#, Java, C, C++, Ruby, PHP, HTML, CSS, JavaScript, T-SQL (MSSQL, MySQL, Oracle).
 
- > Experience with: Obj-C, Perl, Visual Basic, Fortran
+ > Experience with: Obj-C, Perl, Visual Basic, Fortran.
 
 **Environments/Frameworks**
 
- > Proficient in: .NET web (MVC and Webform) development, iOS (Obj-C and C#) development, Rails
+ > Proficient in: .NET web (MVC and Webform) development, iOS (Obj-C and C#) development, Rails.
 
 **Tools**
 
@@ -28,7 +28,7 @@ University of Florida
 
 **Source Control**
 
- > Proficient with Git, Subversion and VSS
+ > Proficient with Git, Subversion and VSS.
 
 **Servers**
 
@@ -36,7 +36,7 @@ University of Florida
 
 **Software**
 
- > I have experience building sites powered by Sitecore CMS and Drupal
+ > I have experience building sites powered by Sitecore CMS and Drupal.
 
 ## Experience
 
