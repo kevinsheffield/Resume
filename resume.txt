@@ -52,7 +52,7 @@ University of Florida
 * Maintained and built upon the company's client LMS (Learning Management System), a web application built on .NET.
     * Upgraded the LMS from .NET 1.1 to 2.0 to 3.5 and finally to 4.0.
     * Converted much of the site from Webforms to MVC.
-    * Converted the site from datasets/dataadapter methodology to NHibernate and some Dapper.net/Simple.Data.
+    * Converted the site from using datasets/dataadapter for data access to NHibernate and some Dapper.net/Simple.Data.
 * Created and maintained line of business reports and applications such as for order processing, invoicing and CRM functionality.
 * Maintained legacy Classic ASP reports.
 * Created and maintained databases in MSSQL that supported applications.
