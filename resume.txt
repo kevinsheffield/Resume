@@ -24,7 +24,7 @@ University of Florida
 
 **Environments/Frameworks**
 
- > Proficient in: .Net web (MVC and Webform) development, iOS (Obj-C and C#) development, Rails
+ > Proficient in: .NET web (MVC and Webform) development, iOS (Obj-C and C#) development, Rails
 
 **Tools**
 
@@ -48,7 +48,16 @@ University of Florida
 
 #### Senior Software Developer - October 2005 to Present
 
-what
+* Created and maintained the public website and intranet built on Sitecore CMS and .NET.
+* Maintained and built upon the company's client LMS (Learning Management System), a web application built on .NET.
+** Upgraded the LMS from .NET 1.1 to 2.0 to 3.5 and finally to 4.0.
+** Converted much of the site from Webforms to MVC.
+** Converted the site from datasets/dataadapter methodology to NHibernate and some Dapper.net/Simple.Data.
+* Created and maintained line of business reports and applications such as for order processing, invoicing and CRM functionality.
+* Maintained legacy Classic ASP reports.
+* Created and maintained databases in MSSQL that supported applications.
+* Regularly involved in projects that required direct interaction with business stakeholders with responsibility for requirement gathering, solution design and guiding stakeholders towards sign off.
+
 
 ### Blockbuster Video, Milton, Florida
 
@@ -61,7 +70,7 @@ what
 
 #### Logistics Modeler - May 2002 to August 2002
 
-* Made database and spreadsheet applications modeling plant behavior for accounting and 	management purposes in Visual Basic and some C++.
+* Made database and spreadsheet applications modeling plant behavior for accounting and management purposes in Visual Basic and some C++.
 * Helped make changes to the plant control programs in Fortran.
 
 
