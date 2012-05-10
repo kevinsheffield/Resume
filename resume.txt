@@ -4,10 +4,6 @@
  * <http://ksheffield.com>
  * 239-537-3682
 
-## Background
-
-Background - work in progress
-
 ## Education
 
 Computer Engineering, B.S.  
